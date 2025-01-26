@@ -15,6 +15,6 @@ public class Fizzbuzz {
   
         if (isDivisibleBy5) return "Buzz";
 
-        return "null";
+        return num + "";
     }
 }
